@@ -7,7 +7,7 @@ module.exports = function (config) {
     frameworks: ['jasmine', '@angular/cli'],
     plugins: [
 
-     
+     //yoyoyoyoyoyo
       require('karma-coverage-istanbul-reporter'),
       require('@angular/cli/plugins/karma')
     ],
